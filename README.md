@@ -1,2 +1,2 @@
 # obsidian-save-from-telegram
-Plugin for Obsidian
+Plugin for Obsidian public repo
